@@ -18,5 +18,5 @@ api basic library
         <dependency>
             <artifactId>com.tanghuzi.common</artifactId>
             <groupId>com.tanghuzi</groupId>
-            <version>1.0</version>
+            <version>1.0</version> 
         </dependency>
