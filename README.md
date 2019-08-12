@@ -1,8 +1,8 @@
 ﻿# common
 api basic library
 
-1.配置github为maven仓库
- <repositories>
+1.配置github仓库为maven仓库
+   <repositories>
         <repository>
             <id>mvn-repo</id>
             <url>https://raw.githubusercontent.com/liminghncs/common/repo/</url>
