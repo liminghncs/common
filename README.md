@@ -1,7 +1,7 @@
-# common
+ï»¿# common
 api basic library
 
-1.ÅäÖÃgithubÎªmaven²Ö¿â
+1.é…ç½®githubä¸ºmavenä»“åº“
  <repositories>
         <repository>
             <id>mvn-repo</id>
@@ -13,7 +13,7 @@ api basic library
         </repository>
     </repositories>
 
-2.Ìí¼ÓÒÀÀµÏî
+2.æ·»åŠ ä¾èµ–é¡¹
 
         <dependency>
             <artifactId>com.tanghuzi.common</artifactId>
